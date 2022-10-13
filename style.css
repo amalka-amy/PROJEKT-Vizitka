@@ -13,8 +13,12 @@ tlačítko Twitter aktivní:	 #0b7bc1
 tlačítko Facebook:				 #3b5998
 tlačítko Facebook aktivní: #2b406e
 */
+body{
+    background-color: #b2bec3;
+    font-family: 'Nunito', sans-serif;
+}
 
-img{
+.eliska{
     height: 150px;
     width: 150px;
     display:block;
@@ -28,17 +32,13 @@ h1{
     color: #d63031;
     font-size:36px;
     font-weight: bold;
+    margin: 0px;
 }
 
 p{
     margin-top:30px;
     margin-bottom:30px;
     font-size:18px;
-}
-
-body{
-    background-color: #b2bec3;
-    font-family: 'Nunito', sans-serif;
 }
 
 .vizitka{
